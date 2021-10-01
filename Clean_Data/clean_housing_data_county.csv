@@ -1,0 +1,119 @@
+Metropolitan/FMR Area Name,State,County Name,1-Unit,2-unit,3-unit,4-unit,studio rent,1 bdrm rent,2 bdrm rent,3 bdrm rent,4 bdrm rent
+"Phoenix-Mesa-Scottsdale, AZ MSA",AZ,Maricopa County,"$258,000 ","$330,000 ","$400,000 ","$495,000 ",933,1032,1251,1765,2010
+"Phoenix-Mesa-Scottsdale, AZ MSA",AZ,Pinal County,"$252,000 ","$322,000 ","$390,000 ","$483,000 ",933,1032,1251,1765,2010
+"Los Angeles-Long Beach-Glendale, CA HUD Metro FMR Area",CA,Los Angeles County,"$510,000 ","$652,000 ","$790,000 ","$979,000 ",1369,1605,2058,2735,2982
+"San Diego-Carlsbad, CA MSA",CA,San Diego County,"$518,000 ","$663,000 ","$803,000 ","$994,000 ",1478,1642,2124,2987,3677
+"San Francisco, CA HUD Metro FMR Area",CA,Marin County,"$664,000 ","$850,000 ","$1,029,000 ","$1,275,000 ",2350,2923,3553,4567,4970
+"San Francisco, CA HUD Metro FMR Area",CA,San Francisco County,"$664,000 ","$850,000 ","$1,029,000 ","$1,275,000 ",2350,2923,3553,4567,4970
+"San Francisco, CA HUD Metro FMR Area",CA,San Mateo County,"$664,000 ","$850,000 ","$1,029,000 ","$1,275,000 ",2350,2923,3553,4567,4970
+"San Jose-Sunnyvale-Santa Clara, CA HUD Metro FMR Area",CA,Santa Clara County,"$665,000 ","$851,000 ","$1,031,000 ","$1,277,000 ",2228,2558,3051,3984,4593
+"Denver-Aurora-Lakewood, CO MSA",CO,Adams County,"$382,000 ","$489,000 ","$593,000 ","$734,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Arapahoe County,"$382,000 ","$489,000 ","$593,000 ","$734,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Broomfield County,"$403,000 ","$515,000 ","$624,000 ","$773,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Clear Creek County,"$382,000 ","$489,000 ","$593,000 ","$734,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Denver County,"$417,000 ","$534,000 ","$646,000 ","$801,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Douglas County,"$418,000 ","$535,000 ","$648,000 ","$803,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Elbert County,"$429,000 ","$550,000 ","$666,000 ","$824,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Gilpin County,"$382,000 ","$489,000 ","$593,000 ","$734,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Jefferson County,"$413,000 ","$529,000 ","$641,000 ","$793,000 ",1179,1304,1605,2186,2486
+"Denver-Aurora-Lakewood, CO MSA",CO,Park County,"$382,000 ","$489,000 ","$593,000 ","$734,000 ",1179,1304,1605,2186,2486
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",PA,Bucks County,"$304,000 ","$389,000 ","$471,000 ","$584,000 ",900,1040,1260,1567,1796
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",PA,Chester County,"$324,000 ","$415,000 ","$502,000 ","$622,000 ",900,1040,1260,1567,1796
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",PA,Delaware County,"$237,000 ","$304,000 ","$368,000 ","$456,000 ",900,1040,1260,1567,1796
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",PA,Montgomery County,"$291,000 ","$372,000 ","$451,000 ","$558,000 ",900,1040,1260,1567,1796
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",PA,Philadelphia County,"$237,000 ","$304,000 ","$368,000 ","$456,000 ",900,1040,1260,1567,1796
+"Washington-Arlington-Alexandria, DC-VA-MD HUD Metro FMR Area",DC,District of Columbia,"$485,000 ","$620,000 ","$751,000 ","$930,000 ",1513,1548,1765,2263,2742
+"Jacksonville, FL HUD Metro FMR Area",FL,Clay County,"$209,000 ","$268,000 ","$324,000 ","$401,000 ",746,921,1113,1455,1852
+"Jacksonville, FL HUD Metro FMR Area",FL,Duval County,"$209,000 ","$268,000 ","$324,000 ","$401,000 ",746,921,1113,1455,1852
+"Jacksonville, FL HUD Metro FMR Area",FL,Nassau County,"$237,000 ","$303,000 ","$367,000 ","$454,000 ",746,921,1113,1455,1852
+"Jacksonville, FL HUD Metro FMR Area",FL,St. Johns County,"$274,000 ","$350,000 ","$424,000 ","$525,000 ",746,921,1113,1455,1852
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",IL,Cook County,"$244,000 ","$312,000 ","$378,000 ","$468,000 ",1012,1122,1299,1649,1969
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",IL,DuPage County,"$291,000 ","$372,000 ","$451,000 ","$558,000 ",1012,1122,1299,1649,1969
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",IL,Kane County,"$240,000 ","$307,000 ","$372,000 ","$461,000 ",1012,1122,1299,1649,1969
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",IL,Lake County,"$240,000 ","$307,000 ","$372,000 ","$461,000 ",1012,1122,1299,1649,1969
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",IL,McHenry County,"$240,000 ","$307,000 ","$372,000 ","$461,000 ",1012,1122,1299,1649,1969
+"Chicago-Joliet-Naperville, IL HUD Metro FMR Area",IL,Will County,"$240,000 ","$307,000 ","$372,000 ","$461,000 ",1012,1122,1299,1649,1969
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Boone County,"$204,000 ","$261,000 ","$317,000 ","$392,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Brown County,"$193,000 ","$247,000 ","$299,000 ","$370,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Hamilton County,"$238,000 ","$304,000 ","$368,000 ","$456,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Hancock County,"$190,000 ","$243,000 ","$295,000 ","$365,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Hendricks County,"$200,000 ","$255,000 ","$309,000 ","$383,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Johnson County,"$176,000 ","$225,000 ","$272,000 ","$337,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Marion County,"$176,000 ","$225,000 ","$272,000 ","$337,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Morgan County,"$176,000 ","$225,000 ","$272,000 ","$337,000 ",678,781,946,1248,1455
+"Indianapolis-Carmel, IN HUD Metro FMR Area",IN,Shelby County,"$176,000 ","$225,000 ","$272,000 ","$337,000 ",678,781,946,1248,1455
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",MA,Essex County,"$428,000 ","$547,000 ","$663,000 ","$821,000 ",1742,1924,2336,2906,3168
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",MA,Middlesex County,"$466,000 ","$596,000 ","$722,000 ","$894,000 ",1742,1924,2336,2906,3168
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",MA,Norfolk County,"$447,000 ","$572,000 ","$692,000 ","$857,000 ",1742,1924,2336,2906,3168
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",MA,Plymouth County,"$428,000 ","$547,000 ","$663,000 ","$821,000 ",1742,1924,2336,2906,3168
+"Boston-Cambridge-Quincy, MA-NH HUD Metro FMR Area",MA,Suffolk County,"$513,000 ","$657,000 ","$795,000 ","$985,000 ",1742,1924,2336,2906,3168
+"New York, NY HUD Metro FMR Area",NY,Bronx County,"$523,000 ","$669,000 ","$810,000 ","$1,003,000 ",1760,1801,2053,2598,2784
+"New York, NY HUD Metro FMR Area",NY,Kings County,"$580,000 ","$742,000 ","$898,000 ","$1,113,000 ",1760,1801,2053,2598,2784
+"New York, NY HUD Metro FMR Area",NY,New York County,"$558,000 ","$715,000 ","$865,000 ","$1,072,000 ",1760,1801,2053,2598,2784
+"New York, NY HUD Metro FMR Area",NY,Putnam County,"$508,000 ","$651,000 ","$788,000 ","$976,000 ",1760,1801,2053,2598,2784
+"New York, NY HUD Metro FMR Area",NY,Queens County,"$546,000 ","$699,000 ","$847,000 ","$1,049,000 ",1760,1801,2053,2598,2784
+"New York, NY HUD Metro FMR Area",NY,Richmond County,"$521,000 ","$666,000 ","$807,000 ","$999,000 ",1760,1801,2053,2598,2784
+"New York, NY HUD Metro FMR Area",NY,Rockland County,"$508,000 ","$651,000 ","$788,000 ","$976,000 ",1760,1801,2053,2598,2784
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",NC,Cabarrus County,"$227,000 ","$290,000 ","$352,000 ","$436,000 ",987,1010,1151,1518,1956
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",NC,Gaston County,"$227,000 ","$290,000 ","$352,000 ","$436,000 ",987,1010,1151,1518,1956
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",NC,Mecklenburg County,"$248,000 ","$317,000 ","$384,000 ","$476,000 ",987,1010,1151,1518,1956
+"Charlotte-Concord-Gastonia, NC-SC HUD Metro FMR Area",NC,Union County,"$237,000 ","$303,000 ","$367,000 ","$454,000 ",987,1010,1151,1518,1956
+"Columbus, OH HUD Metro FMR Area",OH,Delaware County,"$277,000 ","$355,000 ","$430,000 ","$533,000 ",717,827,1031,1298,1468
+"Columbus, OH HUD Metro FMR Area",OH,Fairfield County,"$201,000 ","$258,000 ","$312,000 ","$387,000 ",717,827,1031,1298,1468
+"Columbus, OH HUD Metro FMR Area",OH,Franklin County,"$198,000 ","$253,000 ","$306,000 ","$379,000 ",717,827,1031,1298,1468
+"Columbus, OH HUD Metro FMR Area",OH,Licking County,"$198,000 ","$253,000 ","$306,000 ","$379,000 ",717,827,1031,1298,1468
+"Columbus, OH HUD Metro FMR Area",OH,Madison County,"$198,000 ","$253,000 ","$306,000 ","$379,000 ",717,827,1031,1298,1468
+"Columbus, OH HUD Metro FMR Area",OH,Morrow County,"$198,000 ","$253,000 ","$306,000 ","$379,000 ",717,827,1031,1298,1468
+"Columbus, OH HUD Metro FMR Area",OH,Pickaway County,"$198,000 ","$253,000 ","$306,000 ","$379,000 ",717,827,1031,1298,1468
+"Oklahoma City, OK HUD Metro FMR Area",OK,Canadian County,"$166,000 ","$213,000 ","$257,000 ","$319,000 ",705,738,918,1238,1488
+"Oklahoma City, OK HUD Metro FMR Area",OK,Cleveland County,"$157,000 ","$201,000 ","$243,000 ","$301,000 ",705,738,918,1238,1488
+"Oklahoma City, OK HUD Metro FMR Area",OK,Logan County,"$179,000 ","$229,000 ","$277,000 ","$343,000 ",705,738,918,1238,1488
+"Oklahoma City, OK HUD Metro FMR Area",OK,McClain County,"$180,000 ","$231,000 ","$280,000 ","$346,000 ",705,738,918,1238,1488
+"Oklahoma City, OK HUD Metro FMR Area",OK,Oklahoma County,"$157,000 ","$201,000 ","$243,000 ","$301,000 ",705,738,918,1238,1488
+"Portland-Vancouver-Hillsboro, OR-WA MSA",OR,Clackamas County,"$399,000 ","$511,000 ","$618,000 ","$766,000 ",1245,1331,1536,2193,2657
+"Portland-Vancouver-Hillsboro, OR-WA MSA",OR,Columbia County,"$376,000 ","$481,000 ","$582,000 ","$721,000 ",1245,1331,1536,2193,2657
+"Portland-Vancouver-Hillsboro, OR-WA MSA",OR,Multnomah County,"$385,000 ","$492,000 ","$596,000 ","$739,000 ",1245,1331,1536,2193,2657
+"Portland-Vancouver-Hillsboro, OR-WA MSA",OR,Washington County,"$394,000 ","$505,000 ","$611,000 ","$757,000 ",1245,1331,1536,2193,2657
+"Portland-Vancouver-Hillsboro, OR-WA MSA",OR,Yamhill County,"$376,000 ","$481,000 ","$582,000 ","$721,000 ",1245,1331,1536,2193,2657
+"Portland-Vancouver-Hillsboro, OR-WA MSA",WA,Clark County,"$376,000 ","$481,000 ","$582,000 ","$721,000 ",1245,1331,1536,2193,2657
+"Portland-Vancouver-Hillsboro, OR-WA MSA",WA,Skamania County,"$376,000 ","$481,000 ","$582,000 ","$721,000 ",1245,1331,1536,2193,2657
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Cannon County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Cheatham County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Davidson County,"$280,000 ","$359,000 ","$434,000 ","$538,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Dickson County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Robertson County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Rutherford County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Sumner County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Trousdale County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Williamson County,"$380,000 ","$486,000 ","$589,000 ","$730,000 ",998,1031,1197,1539,1930
+"Nashville-Davidson--Murfreesboro--Franklin, TN HUD Metro FMR Area",TN,Wilson County,"$285,000 ","$365,000 ","$442,000 ","$547,000 ",998,1031,1197,1539,1930
+"Austin-Round Rock, TX MSA",TX,Bastrop County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",1059,1212,1434,1848,2207
+"Austin-Round Rock, TX MSA",TX,Caldwell County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",1059,1212,1434,1848,2207
+"Austin-Round Rock, TX MSA",TX,Hays County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",1059,1212,1434,1848,2207
+"Austin-Round Rock, TX MSA",TX,Travis County,"$318,000 ","$407,000 ","$493,000 ","$611,000 ",1059,1212,1434,1848,2207
+"Austin-Round Rock, TX MSA",TX,Williamson County,"$266,000 ","$340,000 ","$412,000 ","$511,000 ",1059,1212,1434,1848,2207
+"Dallas, TX HUD Metro FMR Area",TX,Collin County,"$285,000 ","$365,000 ","$442,000 ","$547,000 ",1029,1134,1352,1746,2309
+"Dallas, TX HUD Metro FMR Area",TX,Dallas County,"$246,000 ","$315,000 ","$381,000 ","$472,000 ",1029,1134,1352,1746,2309
+"Dallas, TX HUD Metro FMR Area",TX,Denton County,"$261,000 ","$334,000 ","$405,000 ","$502,000 ",1029,1134,1352,1746,2309
+"Dallas, TX HUD Metro FMR Area",TX,Ellis County,"$246,000 ","$315,000 ","$381,000 ","$472,000 ",1029,1134,1352,1746,2309
+"Dallas, TX HUD Metro FMR Area",TX,Hunt County,"$246,000 ","$315,000 ","$381,000 ","$472,000 ",1029,1134,1352,1746,2309
+"Dallas, TX HUD Metro FMR Area",TX,Kaufman County,"$246,000 ","$315,000 ","$381,000 ","$472,000 ",1029,1134,1352,1746,2309
+"Dallas, TX HUD Metro FMR Area",TX,Rockwall County,"$254,000 ","$325,000 ","$393,000 ","$487,000 ",1029,1134,1352,1746,2309
+"Fort Worth-Arlington, TX HUD Metro FMR Area",TX,Johnson County,"$218,000 ","$279,000 ","$337,000 ","$418,000 ",901,1021,1242,1661,2077
+"Fort Worth-Arlington, TX HUD Metro FMR Area",TX,Parker County,"$265,000 ","$339,000 ","$411,000 ","$509,000 ",901,1021,1242,1661,2077
+"Fort Worth-Arlington, TX HUD Metro FMR Area",TX,Tarrant County,"$218,000 ","$279,000 ","$337,000 ","$418,000 ",901,1021,1242,1661,2077
+"El Paso, TX HUD Metro FMR Area",TX,El Paso County,"$162,000 ","$207,000 ","$250,000 ","$310,000 ",548,687,831,1174,1415
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",TX,Chambers County,"$237,000 ","$303,000 ","$367,000 ","$455,000 ",908,983,1176,1576,2010
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",TX,Fort Bend County,"$228,000 ","$291,000 ","$353,000 ","$437,000 ",908,983,1176,1576,2010
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",TX,Galveston County,"$210,000 ","$269,000 ","$326,000 ","$404,000 ",908,983,1176,1576,2010
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",TX,Harris County,"$209,000 ","$267,000 ","$324,000 ","$401,000 ",908,983,1176,1576,2010
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",TX,Liberty County,"$209,000 ","$267,000 ","$324,000 ","$401,000 ",908,983,1176,1576,2010
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",TX,Montgomery County,"$217,000 ","$277,000 ","$336,000 ","$416,000 ",908,983,1176,1576,2010
+"Houston-The Woodlands-Sugar Land, TX HUD Metro FMR Area",TX,Waller County,"$215,000 ","$276,000 ","$334,000 ","$413,000 ",908,983,1176,1576,2010
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",TX,Bandera County,"$203,000 ","$260,000 ","$315,000 ","$390,000 ",761,912,1114,1446,1793
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",TX,Bexar County,"$196,000 ","$250,000 ","$303,000 ","$376,000 ",761,912,1114,1446,1793
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",TX,Comal County,"$247,000 ","$316,000 ","$383,000 ","$474,000 ",761,912,1114,1446,1793
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",TX,Guadalupe County,"$214,000 ","$274,000 ","$331,000 ","$410,000 ",761,912,1114,1446,1793
+"San Antonio-New Braunfels, TX HUD Metro FMR Area",TX,Wilson County,"$261,000 ","$334,000 ","$405,000 ","$502,000 ",761,912,1114,1446,1793
+"Seattle-Bellevue, WA HUD Metro FMR Area",WA,King County,"$489,000 ","$626,000 ","$758,000 ","$939,000 ",1523,1599,1906,2694,3172
+"Seattle-Bellevue, WA HUD Metro FMR Area",WA,Snohomish County,"$466,000 ","$597,000 ","$723,000 ","$896,000 ",1523,1599,1906,2694,3172
