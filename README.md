@@ -23,14 +23,14 @@ After going through very basic analysis of the housing/rent prices in the cities
 5. In the end, determining what the best place for an individual is a highly opinionated decision. There are many factors that should be taken into account but we provided enough analysis that an individual should be able to have the ability to, at the very least eliminate some options from their decision making process.
 
 ## Data Collected From
-# Housing and Rent Prices
+### Housing and Rent Prices
 The OFFICE OF POLICY DEVELOPMENT AND RESEARCH at https://www.huduser.gov/portal/pdrdatas_landing.html
 
-# Cost of Living Index
+### Cost of Living Index
 https://advisorsmith.com/data/coli/
 
-# Lifestyle Data
+### Lifestyle Data
 This dataset was provided by Esri, which is an international supplier of geographic information system software, web GIS and geodatabase management applications
 
-# Crime Index
-This dataset was taken from  
+### Crime Index
+This dataset was taken from Numbeo.com
