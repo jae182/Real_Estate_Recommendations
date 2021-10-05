@@ -12,3 +12,25 @@ We hope to be able to answer some questions about what these cities have to offe
 4. Which cities are the most and least expensive?
 5. What is the best place for me?
 
+## Results From Analysis
+After going through very basic analysis of the housing/rent prices in the cities, we were able to answer a few of the questions that new movers may face when relocating. We were able to provide graphs showing the safest cities, along with cities with the highest crime rates in the nation. We also provide housing prices for unit sizes up to a 4 unit household. We are able to show the most expensive cities based on not only housing prices but also taking into account the cost of living. 
+
+## Answers to Questions
+1. From our interpretation of the Crime Index, we found that the safest cities are 
+2. In terms of hobbies and interests a lot of cities offer a wide variety of options when it comes to an individual's interest and hobbies. Unfortunately, we were unable to use our data set in a way that provided an insight into what each city specifically had to offer.
+3. Based on the housing data, crime rate, and lifestyle indexes that revolve around raising a family, we found that 
+4. Taking into account the housing prices and the cost of living, we found that [] are the most expensive cities. On the flip side, for individuals looking to save money and find an affordable area to live in, we found that [] are the best cities to live in.
+5. In the end, determining what the best place for an individual is a highly opinionated decision. There are many factors that should be taken into account but we provided enough analysis that an individual should be able to have the ability to, at the very least eliminate some options from their decision making process.
+
+## Data Collected From
+# Housing and Rent Prices
+The OFFICE OF POLICY DEVELOPMENT AND RESEARCH at https://www.huduser.gov/portal/pdrdatas_landing.html
+
+# Cost of Living Index
+https://advisorsmith.com/data/coli/
+
+# Lifestyle Data
+This dataset was provided by Esri, which is an international supplier of geographic information system software, web GIS and geodatabase management applications
+
+# Crime Index
+This dataset was taken from  
